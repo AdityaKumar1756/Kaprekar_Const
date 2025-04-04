@@ -4,6 +4,7 @@ The code in this repository demonstrates how to derive the number '6174' (Kaprek
 Example:
 
 Please enter the four digit number by entering each digit.
+
 1 (input 1)
 
 2 (input 2)
