@@ -40,6 +40,7 @@ int main() {
             four_digit_version == 8888 || 
             four_digit_version == 9999) {
                 std::cout<<"Sorry! Only 4-digit numbers with at least 2 distinct digits..."<<std::endl;
+                break;
             }
 
 
